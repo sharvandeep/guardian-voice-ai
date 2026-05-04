@@ -1,5 +1,6 @@
 RoadGuardian AI
 Privacy-First Intelligent Road Accident Emergency Response System
+
 🚨 About the Project
 
 RoadGuardian AI is an AI-powered road safety and emergency response platform built for the IIT Madras Road Safety Hackathon 2026 (BIMSTEC Countries) under the RoadSoS Problem Statement.
